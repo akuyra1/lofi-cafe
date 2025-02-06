@@ -1,3 +1,56 @@
+Lofi Cafe
+A peaceful, lo-fi idle game set in a cosy coffee shop, developed using Next.js and PixiJS. This project emphasises relaxing gameplay, gradual resource gathering, and gentle NPC interactions, all wrapped in a mellow, atmospheric style.
+
+Project Overview
+Lofi Cafe is designed to be a small, calming idle experience. Watch a miniature coffee shop come to life on your screen, with baristas serving a slow trickle of customers, resources accumulating over time, and subtle animations fostering a serene mood.
+
+Why build this?
+Calm Gameplay: Promotes a relaxed approach—no time limits or stressful management tasks.
+AI-Driven NPCs (Planned): Simple memory systems that let customers and baristas evolve their interactions gradually.
+Easy to Run: Built on Next.js, so you can deploy it quickly or run it locally on various devices.
+
+
+Features & Goals
+Lo-Fi Aesthetic: Minimalistic visuals, soft colour palettes, and soothing music.
+Idle Resource Loop: Earn ‘coffee beans’, ‘tips’, or similar currencies over time.
+NPC Behaviour (Early Stage): Customers arrive periodically, generating resources.
+
+
+Future Plans:
+Deeper AI with memory-based personality traits.
+Day/night cycles reacting to real-world time.
+Expandable café areas or new scenarios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
